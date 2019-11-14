@@ -1,0 +1,62 @@
+{
+  "name": "linkster",
+  "version": "0.0.1",
+  "description": "Discord Bot",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "jimp": "^0.8.5",
+    "moment-duration-format": "^2.2.2",
+    "moment-timezone": "^0.5.26",
+    "node-time": "^0.1.0",
+    "opusscript": "^0.0.7",
+    "request": "^2.88.0",
+    "roblox-js": "^4.0.4",
+    "snekfetch": "^4.0.4",
+    "urban": "^0.3.2",
+    "to-zalgo": "^1.0.1",
+    "flip-text": "^1.1.0",
+    "npminstall": "^4.3.0",
+    "npm-check": "^5.9.0",
+    "npm-install-webpack-plugin": "^4.0.5",
+    "npm": "^6.13.0",
+    "is-npm": "^3.0.0",
+    "npm-run-all": "^4.1.5",
+    "libj-globals": "^1.1.2",
+    "npm-conf": "^1.1.3",
+    "npm-check-updates": "^3.2.1",
+    "install": "^0.13.0",
+    "discord.js-commando": "^0.10.0",
+    "rich-embed": "^1.1.3",
+    "nodebb-plugin-ns-embed": "^3.0.1",
+    "nodebb-plugin-embed": "^3.0.16",
+    "oneline": "^1.0.3",
+    "oneliner": "^0.0.8",
+    "conf": "^6.2.0",
+    "ember-cli": "^3.10.1",
+    "ember-cli-dependency-checker": "^3.2.0",
+    "ember-data": "^3.14.0",
+    "ember-source": "^3.14.1",
+    "websocket": "^1.0.30",
+    "reconnecting-websocket": "^4.2.0",
+    "websocket-driver": "^0.7.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
