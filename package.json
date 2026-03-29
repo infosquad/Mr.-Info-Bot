@@ -10,7 +10,7 @@
   "dependencies": {
     "dateformat": "^3.0.3",
     "discord.js": "^11.5.1",
-    "express": "^4.16.4",
+    "express": "^4.22.1",
     "jimp": "^0.8.5",
     "moment-duration-format": "^2.2.2",
     "moment-timezone": "^0.5.26",
